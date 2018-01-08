@@ -6,10 +6,12 @@ press a button. Some of these are provided for you and others you are expected t
 on your own.
 
 Based on an original file by Dexter Kozen (dck10) and Walker White (wmw2)
-
-Author: Walker M. White (wmw2)
 Date:    October 20, 2017 (Python 3 Version)
+
+jo299 Junghwan Oh, mb2363
 """
+
+
 import a6history
 
 
